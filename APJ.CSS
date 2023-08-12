@@ -1,0 +1,108 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+.container {
+   
+      background-image: url(APJ.jpg);
+      background-repeat: no-repeat;
+      
+       min-height: 100vh;
+       border: 10px solid #ffffff;
+
+}
+.contant {
+      max-width: 900px;
+      margin: 0 auto;
+}
+
+.top-section {
+      margin-top: 100px;
+      display: flex;
+      justify-content: space-between;
+}
+.top-section h1 {
+      font-size: 60px;
+      font-weight: bold;
+      color: #ffffff;
+      
+}
+.top-section h4 {
+      font-size: 30px;
+      text-align: end;
+      color: #ffffff;
+      
+}
+
+.image-container {
+      border-radius: 60%;
+      overflow: hidden;
+}
+
+.image-container img {
+      width: 300px;
+      height: 320px;
+}
+.about-section h2{
+      font-size: 70px;
+      font-weight: 400;
+      color: #ffffff;
+      margin-bottom: 50px;
+      text-decoration-line: underline;
+      
+}
+
+.about-section p {
+      font-style: normal;
+      font-size: 30px;
+      color: #ffffff;
+      line-height: 40px;
+      letter-spacing: 2px;
+      text-align: justify;
+}
+.about-section li {
+      color: aliceblue;
+      margin-bottom: 15px;
+}
+.biography-section {
+      margin-top: 80px;
+      color: #ffffff;
+      letter-spacing: 2px;
+      line-height: 1.2em;
+      font-size: 25px;
+
+    
+}
+.biographies-section h3 {
+      margin-bottom: 20px;
+      background-color: #ffffff;
+      color: black;
+      text-decoration: double;
+
+}
+.biography-section ul{
+      margin-left: 60px;
+}
+footer{
+      margin-top: 20px;
+      color: aliceblue;
+
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
